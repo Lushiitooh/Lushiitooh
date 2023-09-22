@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Lushiitooh 😎
+# ¡Hola! 👋 Soy Luis Sepúlveda 😎
 
 ¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack Trainee especializado en lenguaje Java ☕ con un fuerte enfoque en la creación de aplicaciones web robustas y escalables. Mi objetivo principal es combinar mis habilidades técnicas y mi pasión por la programación para crear soluciones innovadoras y de alta calidad. 🚀
 
@@ -37,6 +37,6 @@
 ¡Si estás interesado en colaborar en proyectos emocionantes o simplemente quieres charlar sobre desarrollo Full Stack en Java, no dudes en contactarme! 📩
 
 - GitHub: [Lushiitooh](https://github.com/Lushiitooh) 🌐
-- LinkedIn: [Luis Sepulveda Cortes](https://www.linkedin.com/in/luis-sepulveda-cortes-b70655262/) 💼
+- LinkedIn: [Luis Sepúlveda Cortes](https://www.linkedin.com/in/luis-sepulveda-cortes-b70655262/) 💼
 - Correo Electrónico: [luis.sepu.c@gmail.com] 📧
 
