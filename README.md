@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Lushiitooh 😎
 
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack especializado en lenguaje Java ☕ con un fuerte enfoque en la creación de aplicaciones web robustas y escalables. Mi objetivo principal es combinar mis habilidades técnicas y mi pasión por la programación para crear soluciones innovadoras y de alta calidad. 🚀
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador Full Stack Trainee especializado en lenguaje Java ☕ con un fuerte enfoque en la creación de aplicaciones web robustas y escalables. Mi objetivo principal es combinar mis habilidades técnicas y mi pasión por la programación para crear soluciones innovadoras y de alta calidad. 🚀
 
 ## Experiencia Profesional 💼
 
